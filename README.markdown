@@ -1,5 +1,5 @@
 ![Sorted CSS Colors Animated Logo](640x480-CSS-colors.gif)
-
+--
 # Sorted CSS Colors
 
 I wanted to create a tool to sort the named CSS colors in a way that it shows related colors together. So, next time I can't decide between a few CSS colors, I can just check them here side by side.
